@@ -1,1 +1,1 @@
-![sales](sales.png)
+![sales](Sales.png)
